@@ -1,4 +1,4 @@
-# 🧠 WordPress Website Design & Optimization Internship Projects
+# 🧠 WordPress Website Design & Optimization Internship Projects @ **RANKSOLDIER INTERNATIONAL PRIVATE LIMITED**
 
 During my WordPress internship, I had the opportunity to design, build, and optimize several websites across various industries. Each project focused on performance, responsiveness, SEO best practices, and user experience enhancements. Below is a curated list of the websites I worked on during this internship.
 
