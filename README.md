@@ -12,16 +12,19 @@ During my WordPress internship, I had the opportunity to design, build, and opti
 2. **[Wildlife Rescue Hub](https://wildliferescuehub.com/)**  
    An awareness platform focused on animal rescue, conservation, and community outreach.
 
-3. **[Trend Hackers](https://trendhackers.com/)**  
-   A modern blog and review hub for trending digital products and tools.
+3. **[AI write Relite](https://digitalmarketing.aiwriterelite.com/)**  
+   We help businesses grow with smart funnels, content automation, and data-backed strategies that convert.
 
-4. **[Dream Wedding Experts](https://dreamweddingexperts.com/)**  
-   A wedding service provider website offering curated packages and vendor listings.
-
-5. **[Prelaunch Estates](https://prelaunchestates.com/)**  
+4. **[Prelaunch Estates](https://prelaunchestates.com/)**  
    A real estate listing site optimized for lead generation and luxury property showcases.
 
-6. **[Luxury Pet Experts](https://luxurypetexperts.com/)**  
+5. **[Trend Hackers](https://trendhackers.com/)**  
+   A modern blog and review hub for trending digital products and tools.
+
+6. **[Dream Wedding Experts](https://dreamweddingexperts.com/)**  
+   A wedding service provider website offering curated packages and vendor listings.
+
+7. **[Luxury Pet Experts](https://luxurypetexperts.com/)**  
    A premium website for pet care, luxury accessories, and grooming services.
 
 ---
@@ -36,12 +39,12 @@ During my WordPress internship, I had the opportunity to design, build, and opti
 ## 🛠️ Skills Demonstrated
 
 - ✅ WordPress Theme Customization  
-- ✅ Elementor and Gutenberg Design  
+- ✅ Elementor Pro
 - ✅ Website Speed Optimization  
 - ✅ SEO On-page Optimization (Yoast/RankMath)  
 - ✅ Cross-Device Responsiveness  
 - ✅ Plugin Integration and Troubleshooting  
-- ✅ Hosting Setup & Migration (TasteWP, Subdomain Testing)
+- ✅ Hosting Setup & Migration
 
 ---
 
